@@ -1,2 +1,2 @@
 #!/bin/bash
-whoami
+whoami : Print effective user id
