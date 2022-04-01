@@ -1,20 +1,2 @@
 #!/bin/bash
 ls -l -a
-total 56                                                                                                                                                                                                 
-drwxr-xr-x 2 root root 336 Apr  1 06:15 .                                                                                                                                                                
-drwxr-xr-x 5 root root  90 Apr  1 05:42 ..                                                                                                                                                               
--rw-r--r-- 1 root root  54 Mar 30 12:13 0-current_working_directory                                                                                                                                      
--rw-r--r-- 1 root root   6 Mar 30 15:05 10-back                                                                                                                                                          
--rw-r--r-- 1 root root  16 Mar 30 15:05 11-lists                                                                                                                                                         
--rw-r--r-- 1 root root  13 Mar 30 15:05 12-file_type                                                                                                                                                     
--rw-r--r-- 1 root root  21 Mar 30 15:05 13-symbolic_link                                                                                                                                                 
--rw-r--r-- 1 root root  51 Mar 30 15:05 14-copy_html                                                                                                                                                     
--rw-r--r-- 1 root root   3 Mar 30 15:05 2-bring_me_home                                                                                                                                                  
--rw-r--r-- 1 root root 860 Mar 30 15:05 3-listfiles                                                                                                                                                      
--rw-r--r-- 1 root root 855 Mar 30 15:05 4-listmorefiles                                                                                                                                                  
--rw-r--r-- 1 root root  68 Apr  1 06:15 5-listfilesdigitonly                                                                                                                                             
--rw-r--r-- 1 root root  30 Mar 30 15:05 6-firstdirectory                                                                                                                                                 
--rw-r--r-- 1 root root  28 Mar 30 15:05 7-movethatfile                                                                                                                                                   
--rw-r--r-- 1 root root   9 Mar 30 15:05 8-firstdelete                                                                                                                                                    
--rw-r--r-- 1 root root  30 Mar 30 15:05 9-firstdirdeletion                                                                                                                                               
-lrwxrwxrwx 1 root root   7 Mar 30 15:05 __ls__ -> /bin/ls 
