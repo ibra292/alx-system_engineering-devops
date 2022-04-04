@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u 0x00-shell_basics alx-system_engineer-devops
+cp -u *.html ../
